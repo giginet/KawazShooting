@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/enemy.boo">
+    <Files>
+      <File FileName="Assets/Scripts/Log.boo" Line="9" Column="27" />
+      <File FileName="Assets/Scripts/Enemy.boo" Line="29" Column="1" />
+      <File FileName="Assets/Resources/Stages/stage3.txt" Line="5" Column="139" />
+      <File FileName="Assets/Scripts/Bacura.boo" Line="12" Column="3" />
+      <File FileName="Assets/Scripts/Option.boo" Line="28" Column="51" />
+      <File FileName="Assets/Scripts/ScoreBall.boo" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Runner.boo" Line="42" Column="102" />
+      <File FileName="Assets/Scripts/GameController.boo" Line="107" Column="1" />
+      <File FileName="Assets/Scripts/StageLoader.boo" Line="40" Column="15" />
+      <File FileName="Assets/Scripts/enemy.boo" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
